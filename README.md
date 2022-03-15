@@ -8,3 +8,5 @@ There are 3 modes:
 1. Off
 2. A 2-Frame Animation
 3. A Red to Blue color fade
+
+Please visit https://www.behance.net/gallery/139435201/Raspberry-Circuit for more information about the project
